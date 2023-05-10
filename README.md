@@ -8,7 +8,7 @@ Date：2023.5.10      Leecode 136.只出现过一次的数字
 
 ![image](https://github.com/JesseZ332623/Leecode_Programming_Questions/assets/101250851/baf04425-d0ff-45b6-bb86-2bd98662bacc)
 
-解题思路：
+
 
 解题思路：使用异或运算，将数组中的每一个元素都异或过去,便能找到那个只重复了一次的值
 
