@@ -14,6 +14,9 @@ Date：2023.5.10      Leecode 136.只出现过一次的数字
 
 1 ^ 1 = 0   1 ^ 1 = 0   1 ^ 0 = 1(只有相异结果才为真)
 
+题解：
+
+
 ```C
     int Single_Number(int *array, int arr_size);
 
