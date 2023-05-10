@@ -42,7 +42,7 @@ Date：2023.5.10      Leecode 136.只出现过一次的数字
 ```
 
 使用这个函数：
-    ```C
+```C
     #define ARRAY_SIZE 10
     int main(int argc, char const *argv[])
     {
