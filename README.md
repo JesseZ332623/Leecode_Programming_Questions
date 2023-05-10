@@ -41,3 +41,24 @@ Date：2023.5.10      Leecode 136.只出现过一次的数字
     }
 ```
 
+使用这个函数：
+    ```C
+    #define ARRAY_SIZE 10
+    int main(int argc, char const *argv[])
+    {
+        int array[ARRAY_SIZE] = {1, 1, 1, 1, 2, 2, 6, 6, 9, 10};
+        int single_number = 0;
+
+        if (single_number = Single_Number(array, ARRAY_SIZE))
+        {
+            printf("The not repeat number is:[%d].", single_number);
+        }
+        else
+        {
+            printf("Number no found.......\n");
+        }
+
+        return EXIT_SUCCESS;
+    }
+```
+
