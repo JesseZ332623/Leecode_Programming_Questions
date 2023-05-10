@@ -43,10 +43,10 @@ Date：2023.5.10      Leecode 136.只出现过一次的数字
 
 使用这个函数：
 ```C
-    #define ARRAY_SIZE 10
+    #define ARRAY_SIZE 5
     int main(int argc, char const *argv[])
     {
-        int array[ARRAY_SIZE] = {1, 1, 1, 1, 2, 2, 6, 6, 9, 10};
+        int array[ARRAY_SIZE] = {101, 101, 20, 96, 96};
         int single_number = 0;
 
         if (single_number = Single_Number(array, ARRAY_SIZE))
@@ -61,4 +61,14 @@ Date：2023.5.10      Leecode 136.只出现过一次的数字
         return EXIT_SUCCESS;
     }
 ```
+
+运行结果：
+
+![image](https://github.com/JesseZ332623/Leecode_Programming_Questions/assets/101250851/4c78e628-b0cd-4bb8-be6b-c73dd7de8545)
+
+
+持续更新中.............
+
+EOF
+
 
